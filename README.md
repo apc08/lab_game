@@ -34,8 +34,11 @@ poetry run project
 
 ## Демонстрация
 
-<!-- Вставьте ссылку на asciinema здесь -->
-<!-- [![asciicast](https://asciinema.org/a/YOUR_ID.svg)](https://asciinema.org/a/YOUR_ID) -->
+Запись игрового процесса: [lab_game01012611.cast](lab_game01012611.cast)
+
+```bash
+asciinema play lab_game01012611.cast
+```
 
 ## Проверка кода
 
